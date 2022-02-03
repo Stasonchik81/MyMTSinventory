@@ -1,0 +1,25 @@
+.inrow{
+    display: flex; 
+    flex-direction: row;
+}
+.incol{
+    display: flex; 
+    flex-direction: column;
+}
+.count{
+    width: 40px;
+}
+.headOn{
+    justify-content: center; 
+    margin-bottom: 10px;
+}
+.marginAuto{
+    margin: auto 0 0;
+}
+.spaceBetween{
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.hide{
+    display: none;
+}
